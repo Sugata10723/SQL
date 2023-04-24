@@ -28,6 +28,7 @@ LIMIT 10;
 
 `SELECT colume, colume`で複数カラムの選択ができる
 * 例　`SELECT name, price`
+
 `SELECT *`とすることで全てのカラムからデータを持ってこれる
 
 ---
