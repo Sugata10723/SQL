@@ -68,7 +68,7 @@ AND 条件文
 
 ---
 # OREDER BY 
-'ORDER BY colume ASC'でデータを昇順に並べることができる
+`ORDER BY colume ASC`でデータを昇順に並べることができる
 * 例　`ORDER BY price ASC`
 
 `ORDER BY colume DESC`で降順に並べることができる
