@@ -17,7 +17,7 @@ SELECT *
 FROM purchases
 WHERE day >= "2023-04-25"
 AND name LIKE "%プリン%"
-ORDER BY price
+ORDER BY price ASC
 LIMIT 10;
 ```
 
