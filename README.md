@@ -5,7 +5,7 @@ sqlite3.9.3
 
 # 中身
 * srcフォルダ
-  * list.sqlite3  
+  * manage.sqlite3  
       物品管理のDB
   * list.csv  
       物品のcsvファイル
