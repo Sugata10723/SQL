@@ -1,26 +1,27 @@
----
-marp: true
----
-
 # How to use SQLite 
 ---
 # SQLiteモードでのコマンド
 * .exit
+
 コマンドラインモードを終了する
-
 * .table
+
 DBのテーブル一覧を確認する
-
 * .show
-各項目の設定を変更できる
 
+各項目の設定を変更できる
 * .mode
+
 `.mode MODE TABLE`でtableの表示形式を変更できる
+
 [詳しくは](https://www.javadrive.jp/sqlite/sqlite_command/index1.html)
 
 * .import
+
 csvファイルをインポートする場合、.modeコマンドでcsvモードに変更しておく必要がある。
+
 `.import FILE TABLE`で入力できる。
+
 [詳しくは](https://www.javadrive.jp/sqlite/sqlite_command/index7.html)
 
 ---
