@@ -4,13 +4,15 @@
 sqlite3.9.3
 
 # 中身
-* manage
-    * list.sqlite3  
+* srcフォルダ
+  * list.sqlite3  
       物品管理のDB
-    * list.csv  
+  * list.csv  
       物品のcsvファイル
 * sample.sqlite3  
   サンプルのDB
+* Howto.md  
+  SQLiteの使い方をメモしていく
 
 # 環境構築
 brewを用いてSQLiteのコマンドラインツールをダウンロード  
