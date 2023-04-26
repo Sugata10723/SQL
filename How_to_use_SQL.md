@@ -1,8 +1,23 @@
+# How to use SQLite 
 ---
-marp: true
-footer: "2023/04/25"
----
-# How to use SQL command
+# SQLiteモードでのコマンド
+* .exit
+コマンドラインモードを終了する
+
+* .table
+DBのテーブル一覧を確認する
+
+* .show
+各項目の設定を変更できる
+
+* .mode
+`.mode MODE TABLE`でtableの表示形式を変更できる
+[詳しくは](https://www.javadrive.jp/sqlite/sqlite_command/index1.html)
+* .import
+csvファイルをインポートする場合、.modeコマンドでcsvモードに変更しておく必要がある。
+`.import FILE TABLE`で入力できる。
+[詳しくは](https://www.javadrive.jp/sqlite/sqlite_command/index7.html)
+
 ---
 # クエリ（データベースからデータを持ってくるコマンド）の書き方
 * 大文字と小文字を区別しない
@@ -83,5 +98,5 @@ AND 条件文
 
 ---
 # 参考文献
-https://prog-8.com/courses/sql
-
+* https://prog-8.com/courses/sql
+* https://www.javadrive.jp/sqlite/sqlite_command/index7.html
