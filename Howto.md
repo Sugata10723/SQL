@@ -1,6 +1,20 @@
 # How to use SQLite 
+SQLiteの使い方をメモしてあります
+# 目次
+* コマンド
+* クエリの書き方
+  * SELECT
+  * FROM
+  * WHERE
+  * LIKE
+  * IS NULL
+  * AND
+  * ORDER BY
+  * LIMIT
+  * ALTER TABLE
+* 参考文献
 
-# SQLiteモードでのコマンド
+# コマンド
 * .exit  
   コマンドラインモードを終了する
 
@@ -22,7 +36,6 @@
 # クエリの書き方
 * 大文字と小文字を区別しない
 * 最後は`;`で終わる
-* データの列をカラム(colume),データの行をレコード(record),データの集まりをテーブル(table)という。
 
 # 例
 
