@@ -20,3 +20,4 @@ brewを用いてSQLiteのコマンドラインツールをダウンロード
 
 # 参考になるサイト
 * [SQLite入門](https://www.javadrive.jp/sqlite/): これに基本的な使い方がのってる
+* [データベースオブジェクトの命名規則](https://qiita.com/genzouw/items/35022fa96c120e67c637): 命名規則

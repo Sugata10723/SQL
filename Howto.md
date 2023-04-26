@@ -13,6 +13,7 @@ DBのテーブル一覧を確認する
 * .mode
 `.mode MODE TABLE`でtableの表示形式を変更できる
 [詳しくは](https://www.javadrive.jp/sqlite/sqlite_command/index1.html)
+
 * .import
 csvファイルをインポートする場合、.modeコマンドでcsvモードに変更しておく必要がある。
 `.import FILE TABLE`で入力できる。
@@ -95,6 +96,10 @@ AND 条件文
 `LIMIT 数字`で数字個のデータを取ってくる
 `LIMIT`はクエリの末尾でなければならない
 * 例　`LIMIT 5;`
+
+---
+# ALTER TABLE
+カラムの追加ができる。カラムの追加はできても削除はできない
 
 ---
 # 参考文献
