@@ -3,7 +3,7 @@
 # 環境
 sqlite3.9.3
 
-# ファイルの中身
+# 中身
 * manage
     * list.sqlite3  
       物品管理のDB
