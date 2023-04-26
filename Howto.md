@@ -1,3 +1,7 @@
+---
+marp: true
+---
+
 # How to use SQLite 
 ---
 # SQLiteモードでのコマンド
