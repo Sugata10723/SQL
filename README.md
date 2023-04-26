@@ -15,7 +15,8 @@ brewを用いてSQLiteのコマンドラインツールをダウンロード
 
 `sqlite3`とだけ入力すると、そのパス内のDBファイルが選択され、存在しない場合はsample.sqlite3というファイルが自動で作られる。
 
-# 参考になるサイト
-* [SQLite入門](https://www.javadrive.jp/sqlite/)
+# 使い方
+[ここを見てください](Howto.md)
 
-これに基本的な使い方がのってる
+# 参考になるサイト
+* [SQLite入門](https://www.javadrive.jp/sqlite/): これに基本的な使い方がのってる
